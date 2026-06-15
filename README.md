@@ -13,7 +13,23 @@ The dashboard was developed using Microsoft Excel and leverages Pivot Tables, Pi
 ![Dashboard Preview](Images/Dashboard_Preview.PNG)
 
 
+## Key Performance Indicators
 
+### Overall Attrition Rate
+
+![Overall Attrition Rate](Images/Overall_Attrition_rate.PNG)
+
+### Total Employees
+
+![Total Employees](Images/Total_Employees.PNG)
+
+### Total Exits
+
+![Total Exits](Images/Total_Exits.PNG)
+
+### High Attrition Age Group
+
+![High Attrition Age Group](Images/High_Attrition_Age_Group.PNG)
 
 
 ---

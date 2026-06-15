@@ -8,10 +8,10 @@ This project analyzes employee attrition trends using an interactive Excel dashb
 The dashboard was developed using Microsoft Excel and leverages Pivot Tables, Pivot Charts, Slicers, and KPI cards to transform HR data into a user-friendly decision-support tool.
 
 
-🖼️ Dashboard Preview
+## Dashboard Preview
 
-![Dashboard Preview]
-(images/Dashboard_Preview.png)
+![Dashboard Preview](images/Dashboard_Preview.png)
+
 
 
 

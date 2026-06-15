@@ -1,38 +1,15 @@
 📊 HR Employee Attrition Analysis
 
+## Dashboard Preview
+
+![Dashboard Preview](Images/Dashboard_Preview.PNG)
+
 
 📌 Project Overview
 
 This project analyzes employee attrition trends using an interactive Excel dashboard. The objective was to identify the key demographic and organizational factors associated with employee turnover and provide actionable insights that can support workforce planning and retention strategies.
 
 The dashboard was developed using Microsoft Excel and leverages Pivot Tables, Pivot Charts, Slicers, and KPI cards to transform HR data into a user-friendly decision-support tool.
-
-
-## Dashboard Preview
-
-![Dashboard Preview](Images/Dashboard_Preview.PNG)
-
-
-## Key Performance Indicators
-
-### Overall Attrition Rate
-
-![Overall Attrition Rate](Images/Overall_Attrition_rate.PNG)
-
-### Total Employees
-
-![Total Employees](Images/Total_Employees.PNG)
-
-### Total Exits
-
-![Total Exits](Images/Total_Exits.PNG)
-
-### High Attrition Age Group
-
-![High-risk_attrition_group](Images/High-risk_attrition_group.PNG)
-
-
----
 
 🎯 Business Problem
 
@@ -67,18 +44,24 @@ Dashboard Design & Data Visualization
 
 
 
----
+## Key Performance Indicators
 
-📊 Key Performance Indicators (KPIs)
+### Overall Attrition Rate
 
-Metric value 
+![Overall Attrition Rate](Images/Overall_Attrition_rate.PNG)
 
-Overall Attrition Rate	16.12%
-Total Employees	1,470
-Total Employee Exits	237
-Highest Risk Age Group	25–34 Years
+### Total Employees
 
+![Total Employees](Images/Total_Employees.PNG)
 
+### Total Exits
+
+![Total Exits](Images/Total_Exits.PNG)
+
+### High Attrition Age Group
+
+![High-risk_attrition_group](Images/High-risk_attrition_group.PNG)
+ 
 
 ---
 
@@ -103,13 +86,14 @@ Attrition by Marital Status
 
 Attrition by Education Level
 
-Attrition by Stock Option Participation
+Attrition by Stock Option 
 
-Attrition by Promotion History
+Attrition by Promotion
 
 Attrition by Age Group
 
 KPI Summary Cards
+
 
 
 
@@ -205,32 +189,29 @@ Review compensation and career development pathways for Bachelor's degree holder
 
 Expand stock option participation and long-term incentive programs.
 
-Conduct employee satisfaction assessments to identify factors driving exits even after promotions.
+Conduct employee satisfaction 
 
+## Project Files
 
+- 📊 [Excel Dashboard](dashboard/HR_Attrition_Analytics_Dashboard_Chime_Chidinma.xlsx)
+- 📂 [Dataset](data/HR_Attrition_Analytics_Dataset.xlsx)
+- 📄 [Documentation Report](documentation/HR_Attrition_Analytics_Documentation_Chime_Chidinma_Sylvia_PDF.PDF)
+- 📑 [Presentation Slides](presentation/HR_Attrition_Analytics_Presentation_Chime_Chidinma_Sylvia_PDF.pdf)
 
 ---
 
-📂 Repository Structure
+📂 ## 📂 Repository Structure
 
-HR-Employee-Attrition-Analysis/
-|
+```text
+HR-Employee-Attrition-Analysis
 │
-├── HR_Attrition_Dashboard.xlsx
-│  
-│
-├── Presentation/
-│   └── HR_Attrition_Presentation.pptx
-│
-├── Documentation/
-│   └── HR_Attrition_Report.docx
-│
-├── Images/
-│   └── Dashboard_Screenshot.png
-│
+├── data
+├── dashboard
+├── documentation
+├── presentation
+├── images
 └── README.md
-
-
+```
 ---
 
 🚀 Skills Demonstrated

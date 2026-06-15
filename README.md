@@ -194,9 +194,9 @@ Conduct employee satisfaction
 ## Project Files
 
 - 📊 [Excel Dashboard](dashboard/HR_Attrition_Analytics_Dashboard_Chime_Chidinma.xlsx)
-- 📂 [Dataset](data/HR_Attrition_Analytics_Dataset.xlsx)
-- 📄 [Documentation Report](documentation/HR_Attrition_Analytics_Documentation_Chime_Chidinma_Sylvia_PDF.PDF)
-- 📑 [Presentation Slides](presentation/HR_Attrition_Analytics_Presentation_Chime_Chidinma_Sylvia_PDF.pdf)
+- 📂 [Dataset](data/Hr_Attrition_Analytics_Dataset.xlsx)
+- 📄 [Documentation Report](documentation/HR_Attrition_Analytics_documentation_Chime_Chidinma_Sylvia_PDF.pdf)
+- 📑 [Presentation Slides](presentation/HR_Attrition_Analytics_presentation_Chime_Chidinma_Sylvia_PDF.pdf)
 
 ---
 

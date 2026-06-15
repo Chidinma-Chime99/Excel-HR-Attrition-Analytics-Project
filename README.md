@@ -29,7 +29,7 @@ The dashboard was developed using Microsoft Excel and leverages Pivot Tables, Pi
 
 ### High Attrition Age Group
 
-![High_risk_attrition_group](Images/High_risk_attrition_group.PNG)
+![High-risk_attrition_group](Images/High-risk_attrition_group.PNG)
 
 
 ---

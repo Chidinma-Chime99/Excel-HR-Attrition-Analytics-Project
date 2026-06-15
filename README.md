@@ -10,9 +10,7 @@ The dashboard was developed using Microsoft Excel and leverages Pivot Tables, Pi
 
 🖼️ Dashboard Preview
 
-## Dashboard Preview
-
-![Dashboard Preview](lmages/Dashboard%20Preview.png)
+![Dashboard Preview](Dashboard%20Preview.png)
 
 
 
